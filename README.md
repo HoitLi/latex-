@@ -9,3 +9,5 @@ ps：这个包似乎跟给目录加标签的包有冲突，会导致目录加载
 
 3、LaTeX实战经验：如何插入程序代码：https://blog.csdn.net/a6822342/article/details/80533135?utm_source=blogxgwz2
 
+4、LaTeX自动生成表格代码：http://www.tablesgenerator.com/
+
